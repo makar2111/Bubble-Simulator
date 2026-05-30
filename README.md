@@ -2,16 +2,21 @@
 ![](1.png)
 
 # Description
-###### Bubble simulator is a cool bubble game that dont needs bubble credit to bubble launch.
-
-##### Now serious
 ###### Bubble simulator is a game where you need to pop bubbles and earn pops to upgrade.
 ###### Bubble simulator is made on python that you can download [there](https://www.python.org/downloads/)
+> [!NOTE]
+> Information can be outdated because of fast updating
 
 ---
 
 ## Installation guide
-
+###### I already given a loink to download python, but [there it is](https://www.python.org/downloads/) if you didnt seen
+###### If you want it to run you need IDLE (can ownload with python) or [VScode](https://code.visualstudio.com/)
+And you need to install some modules with this commands:
+```python
+pip install pygame
+```python
+pip install 
 
 ---
 
