@@ -259,7 +259,6 @@ score = 0
 level = 1
 next_level_score = 50
 level_progress_score = 0
-# Добавлено для тестирования магазина - можешь убрать эту строку
 music_enabled = True
 shop_open = False
 shop_close_button = None
