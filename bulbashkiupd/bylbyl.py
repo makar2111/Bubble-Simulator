@@ -19,7 +19,7 @@ MAX_BUBBLES = 500
 
 pygame.init()
 pygame.mixer.music.load("bgmus1.mp3")
-pygame.mixer.music.set_volume(0.3)
+pygame.mixer.music.set_volume(0.4)
 pygame.mixer.music.play(-1)
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Симулятор бульбашек")
